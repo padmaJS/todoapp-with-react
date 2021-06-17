@@ -10,4 +10,4 @@ const Todo = ({ task, todo, setTodos, todos}) => {
 		</div>
 		)
 }
-export default Todo;
+export default Todo; 
